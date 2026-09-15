@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+| [0680-valid-palindrome-ii](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -47,9 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
