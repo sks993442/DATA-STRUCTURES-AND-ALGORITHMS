@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -46,4 +47,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
