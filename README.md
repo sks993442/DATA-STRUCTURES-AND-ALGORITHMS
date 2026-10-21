@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
