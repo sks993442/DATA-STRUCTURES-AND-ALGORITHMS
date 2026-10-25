@@ -45,10 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0680-valid-palindrome-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/sks993442/DATA-STRUCTURES-AND-ALGORITHMS/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
